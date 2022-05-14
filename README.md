@@ -1,7 +1,11 @@
 Hello, World!✌ My name is Ahmet Taş
 ==============================
 
+* 🌍  I'm from Turkey/Istanbul
+* ✉️  Contact adress [ahmettas151205@gmail.com](mailto:ahmettas151205@gmail.com)
+* 🧠  I'm learning Flutter right now :)
 
+==============================
 
 ### Skills
 
@@ -13,12 +17,14 @@ Hello, World!✌ My name is Ahmet Taş
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 
 ### Socials
-
+<p align="left">
+<a href="https://github.com/ahmettas0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="discordapp.com/users/326130039307501569" target="_blank" rel="noreferrer"><img src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" width="36" height="36" /></a>
 
   
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/omrkara0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/ahmettas0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
  
