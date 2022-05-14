@@ -2,7 +2,8 @@ Hello, World!✌ My name is Ahmet Taş
 ==============================
 
 * 🌍  I'm from Turkey/Istanbul
-* ✉️  Contact adress [ahmettas151205@gmail.com](mailto:ahmettas151205@gmail.com)
+* 🎓  I'm studying at [Istanbul Technic University Vocational High School](http://itumtal.meb.k12.tr)
+* ✉️  Contact adress [ahmettas151205@gmail.com](mailto:ahmettas151205@gmail.com)
 * 🧠  I'm learning Flutter right now :)
 
 ==============================
